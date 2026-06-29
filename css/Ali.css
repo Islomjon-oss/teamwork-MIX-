@@ -2,7 +2,27 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-section{
+    background-image: url(../img/Image\(1\).png);
+    background-repeat: no-repeat;
     
+}
+header>p{
+    
+font-family: Yellowtail;
+font-weight: 400;
+font-style: Regular;
+font-size: 36px;
+line-height: 100%;
+letter-spacing: 0%;
+
+font-weight: 800;
+font-style: ExtraBold;
+font-size: 70px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+
+header>img{
+    
+    position: absolute;
 }
